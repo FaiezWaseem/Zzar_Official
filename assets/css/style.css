@@ -668,6 +668,19 @@ color: #eee;
   color: #fff;
   font-weight: bold;
 }
+.span2 a{
+  font-weight: bold;
+  font-size: larger;
+  text-decoration: none;
+  color: black;
+}
+.span2 a:hover{
+  color: #ff234b;
+}
+.span2 a:visited{
+  color: #ff234b;
+  text-decoration: inherit;
+}
 @media screen and (max-width: 1024px){
   .layerbox .container .left {
     transform: translate(10%,90%);
