@@ -366,7 +366,11 @@ button.main-button {
 button.main-button:hover {
   background-color: #ff589e;
 }
+.layerbox{
 
+  height: 500px;
+  background-repeat: no-repeat;
+}
 
 /* 
 ---------------------------------------------
